@@ -1,0 +1,32 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2352
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 22. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    abcd
+    *d%#
+    abacabadaba
+    #*%*d*%
+    Correct output:
+    *d*%*d*#*d*
+    dacabac
+
+    Your code output:
+    #
+  time: Sun, 12 Jul 2020 17:31:54 UTC
+record: -1

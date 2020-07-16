@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems/Are siblings?/out/
+/Problems/Are siblings?/out/production/classes/
+/Problems/Generate random numbers/out/
+/Problems/Generate random numbers/out/production/classes/
+/Problems/Substitution cipher/out/
+/Problems/Substitution cipher/out/production/classes/
