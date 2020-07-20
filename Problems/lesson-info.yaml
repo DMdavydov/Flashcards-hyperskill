@@ -1,16 +1,55 @@
 content:
-- Pastry packing optimization
-- Boxes are not just objects!
-- Squares list
-- Creating a set
-- Output elements
-- Spell checker
-- Symmetric difference
-- Creating a map
-- War and Peace
-- Substitution cipher
-- Displaying pairs
-- The sum of integers from a to b
-- Find the seed
-- Generate random numbers
-- Are siblings?
+- The maximum pairwise product
+- Two numbers never occur next to each other
+- Individual taxes
+- Floor-space of the room
+- Overloading methods
+- What's wrong
+- Fix compile-time errors
+- Fix the program
+- Binary search
+- Getting input
+- Sorting arrays
+- Army
+- Preparing full name
+- Complex
+- Account
+- Getting the fullname
+- Project constants and methods
+- Too many cats
+- Phone
+- Time
+- Employee
+- Classes for Hospital
+- Check prefix ignoring the case
+- Bank account
+- Employees
+- Saying animals
+- Shapes area
+- Publications
+- Find mistake
+- Publication and its subclasses
+- Mutable geometric shapes
+- Account Service
+- Compact strings with AsciiCharSequence
+- Avoid division by zero
+- String to double conversion
+- Catching some exceptions
+- Converting and multiplying
+- Return empty string when argument is null
+- Avoid NPE
+- Only true or false
+- Safe converting
+- Creating list
+- Concat positive numbers
+- Find the nearest number
+- Output the list's elements
+- Fixing the main method
+- Print  Hello, Java!
+- Print  We are robots!
+- Inverse boolean flags
+- Get first and last elements
+- Parameters and their values
+- The index of an argument
+- Advanced calculator
+- Basic calculator

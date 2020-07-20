@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    /* Please, do not rename it */
+    class Problem {
+
+        public static void main(String[] args) {
+            String operator = args[0];
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3335
+status: Failed
+feedback:
+  message: "Failed test #1 of 10. Runtime error\n\nThis is a sample test from the\
+    \ problem statement!\n\nTest input:\nMAX 7 3 4 1 8 11 3 2\n\nCorrect output:\n\
+    11\n\nYour code output:\n\n\nError:\nException in thread \"main\" java.lang.UnsupportedOperationException\n\
+    \tat java.base/java.util.AbstractList.remove(AbstractList.java:167)\n\tat Problem.main(Main.java:12)\n\
+    \tat Main.main(Main.java:43)\n"
+  time: Mon, 20 Jul 2020 16:34:58 UTC
+record: -1

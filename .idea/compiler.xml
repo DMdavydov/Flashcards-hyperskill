@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="Flashcards-task_main" target="11" />
-      <module name="Flashcards-task_test" target="11" />
+    <bytecodeTargetLevel target="11">
       <module name="Problems-Are_siblings__main" target="11" />
       <module name="Problems-Are_siblings__test" target="11" />
-      <module name="Problems-Boxes_are_not_just_objects!_main" target="11" />
-      <module name="Problems-Boxes_are_not_just_objects!_test" target="11" />
-      <module name="Problems-Creating_a_map_main" target="11" />
-      <module name="Problems-Creating_a_map_test" target="11" />
-      <module name="Problems-Creating_a_set_main" target="11" />
-      <module name="Problems-Creating_a_set_test" target="11" />
-      <module name="Problems-Displaying_pairs_main" target="11" />
-      <module name="Problems-Displaying_pairs_test" target="11" />
-      <module name="Problems-Find_the_seed_main" target="11" />
-      <module name="Problems-Find_the_seed_test" target="11" />
-      <module name="Problems-Generate_random_numbers_main" target="11" />
-      <module name="Problems-Generate_random_numbers_test" target="11" />
-      <module name="Problems-Output_elements_main" target="11" />
-      <module name="Problems-Output_elements_test" target="11" />
-      <module name="Problems-Pastry_packing_optimization_main" target="11" />
-      <module name="Problems-Pastry_packing_optimization_test" target="11" />
-      <module name="Problems-Spell_checker_main" target="11" />
-      <module name="Problems-Spell_checker_test" target="11" />
-      <module name="Problems-Squares_list_main" target="11" />
-      <module name="Problems-Squares_list_test" target="11" />
-      <module name="Problems-Substitution_cipher_main" target="11" />
-      <module name="Problems-Substitution_cipher_test" target="11" />
-      <module name="Problems-Symmetric_difference_main" target="11" />
-      <module name="Problems-Symmetric_difference_test" target="11" />
-      <module name="Problems-The_sum_of_integers_from_a_to_b_main" target="11" />
-      <module name="Problems-The_sum_of_integers_from_a_to_b_test" target="11" />
-      <module name="Problems-War_and_Peace_main" target="11" />
-      <module name="Problems-War_and_Peace_test" target="11" />
-      <module name="util_main" target="11" />
-      <module name="util_test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

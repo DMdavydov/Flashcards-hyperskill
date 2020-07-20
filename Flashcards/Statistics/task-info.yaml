@@ -476,6 +476,13 @@ files:
 - name: capitalsNew.txt
   visible: true
   learner_created: true
+- name: testLog.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/44/stages/237/implement
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/44/stages/236/implement">JetBrains
+    Academy</a>
+  time: Mon, 20 Jul 2020 13:34:01 UTC
+record: 5
